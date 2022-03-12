@@ -1,4 +1,10 @@
 ### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
+
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+
 <div align="center">
   <a href="https://github.com/almeida11">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=almeida11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

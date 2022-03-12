@@ -1,5 +1,5 @@
 ### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
- <a href="#" alt="https://www.linkedin.com/in/luishenr-m/">
+ <a href="#" alt="www.linkedin.com/in/mateus-de-almeida-7555641bb/">
  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
 <div align="center">

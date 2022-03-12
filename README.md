@@ -1,9 +1,10 @@
 ### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
 
 <a href="https://www.linkedin.com/in/mateus-de-almeida-7555641bb/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MateusAlmeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <div align="center">
   <a href="https://github.com/almeida11">

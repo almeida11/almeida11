@@ -1,4 +1,4 @@
-### Oii, Eu sou Mateus Almeida 👋
+### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
 
 <div align="center">
   <a href="https://github.com/almeida11">

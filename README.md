@@ -1,6 +1,6 @@
 ### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
  <a href="#" alt="https://www.linkedin.com/in/luishenr-m/">
- <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luishenr-m/" /></a>
+ <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mateus-de-almeida-7555641bb/" /></a>
 
 <div align="center">
   <a href="https://github.com/almeida11">

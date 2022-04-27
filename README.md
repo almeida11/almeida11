@@ -1,4 +1,4 @@
-### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
+### Hi, i'm Mateus Almeida, Software Engineering Student and Python Programmer 👋
 
 <a href="https://www.linkedin.com/in/mateus-de-almeida-7555641bb/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>

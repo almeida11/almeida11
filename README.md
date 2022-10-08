@@ -4,13 +4,10 @@
     <a href="https://www.linkedin.com/in/mateus-de-almeida-7555641bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FD9089?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Skils 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?logoColor=blue&style=flat-square&logo=visual-studio-code)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JS](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
 ![REACT](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)

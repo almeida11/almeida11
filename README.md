@@ -3,7 +3,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/mateus-de-almeida-7555641bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FD9089?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Skils 
+## Desenvolvimento 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?logoColor=blue&style=flat-square&logo=visual-studio-code)

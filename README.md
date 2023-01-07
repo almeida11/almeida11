@@ -14,6 +14,3 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?logoColor=blue&style=flat-square&logo=css3)
 
 
-![Snake animation](https://github.com/almeida11/almeida11/blob/output/github-contribution-grid-snake.svg)
-
-

@@ -2,8 +2,8 @@
 
 # Contato
 
-[![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://skills.thijs.gg](https://www.linkedin.com/in/mateus-de-almeida-7555641bb/))
-    
+[![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://skills.thijs.gg](https://www.linkedin.com/in/mateus-de-almeida-7555641bb/)
+[Linkedin](https://skills.thijs.gg](https://www.linkedin.com/in/mateus-de-almeida-7555641bb/)
     
 ## Linguagens e Tecnologias  
 

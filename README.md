@@ -5,7 +5,7 @@
 
 ## Desenvolvimento 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,docker,git,py,ts)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,docker,git,py)](https://skills.thijs.gg)
 
 
 

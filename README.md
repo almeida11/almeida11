@@ -1,6 +1,6 @@
 ### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
 
-# Contato
+# Redes Sociais
 
 [![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/mateus-de-almeida-7555641bb/)
 [![Twitter](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/almeida_144)

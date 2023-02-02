@@ -5,16 +5,4 @@
 
 ## Desenvolvimento 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,docker,git,py,vscode)](https://skills.thijs.gg)
-
-
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?logoColor=blue&style=flat-square&logo=visual-studio-code)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JS](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?logoColor=blue&style=flat-square&logo=css3)
-
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,docker,git,github,py,vscode)](https://skills.thijs.gg)

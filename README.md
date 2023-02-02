@@ -2,8 +2,9 @@
 
 # Linguagens e Tecnologias  
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,docker,git,github,py,vscode,linux)](https://skills.thijs.gg)
-
+<div align="center">
+  [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,docker,git,github,py,vscode,linux)](https://skills.thijs.gg)
+</div>
 
 <div align="center">
   <a href="https://github.com/almeida11">

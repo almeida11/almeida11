@@ -5,11 +5,11 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,docker,git,github,py,vscode,linux)](https://skills.thijs.gg)
 
-
 <div align="center">
   <a href="https://github.com/almeida11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeida11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeida11&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
   
   
 # Redes Sociais

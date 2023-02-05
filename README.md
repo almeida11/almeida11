@@ -1,6 +1,6 @@
 ### Hi, i'm Mateus Almeida, Software Engineering Student and Python Developer 👋
 
-# Linguagens e Tecnologias  
+# Tech Skills
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,docker,git,github,py,vscode,linux)](https://skills.thijs.gg)

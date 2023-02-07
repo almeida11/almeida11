@@ -1,7 +1,7 @@
 ### Hi, i'm Mateus Almeida, Software Engineering Student at the Centro Universiário Internacional - Uninter and Web Developer 👋
 
 
-# Stack
+# Stack 💻
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,docker,git,github,py,vscode,linux)](https://skills.thijs.gg)

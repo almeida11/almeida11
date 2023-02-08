@@ -1,4 +1,4 @@
-### Hi, i'm Mateus Almeida, Software Engineering Student at the Centro Universiário Internacional - Uninter and Web Developer 👋
+### Hi, i'm Mateus Almeida, Software Engineering Student at the Centro Universiário Internacional - Uninter / Cybersecurity at the Faculdade de Imperatriz - Facimp 👋
 
 
 # Stack 💻
